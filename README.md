@@ -6,5 +6,5 @@ Esto es solo una practica mia para poder aprender sobre estructura de datos.
 ## Contacto
 
 **Leandro Arturo Contreras Garcia**  
-- 📧 Correo: [240300847@gmail.com](mailto:240300847@gmail.com) 
+- 📧 Correo: [240300847@ucaribe.edu.mx](mailto:240300847@ucaribe.edu.mx) 
 - GitHub: [LDevMkiller](https://github.com/LDevMkiller)
