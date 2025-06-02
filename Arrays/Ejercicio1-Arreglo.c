@@ -2,6 +2,10 @@
     Topico 1: Resolviendo problemas de estructura de datos en C.
     
     - Ejercicio 1: Introduciendo datos a un arreglo
+
+    Un arreglo es una estructura de datos donde se puede alamacenar elementos y que se acceden a través de indices
+
+    -- Array[0] = 12;
 */
 
 //Declaramos la biblioteca para las funciones de INPUT/OUTPUT.
