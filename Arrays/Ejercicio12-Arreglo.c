@@ -35,7 +35,7 @@ int main(int argc, char *argv[]){
         position = i;
         //Recorremos desde la siguiente posicion a la actual
         for(int j = i + 1; j < 3; j++){
-            //Verificamos que el arreglo en esta posicion que estamos iterando sea menor al que previamente registramos
+            //Verificamos que el arreglo en esta posicion que estamos iterando sea mayor al que previamente registramos
             if(array1[j] > max){
                 //Entonces, almacenamos en min el nuevo elemento
                 max = array1[j];
