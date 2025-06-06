@@ -1,7 +1,7 @@
 /*
     Topico 1: Resolviendo problemas de estructura de datos en C.
     
-    - Ejercicio 9: Mostrando los numeros pares o impares del arreglo
+    - Ejercicio 10: Mostrando los numeros pares o impares del arreglo
 */
 
 //Declaramos la biblioteca para las funciones de INPUT/OUTPUT.
