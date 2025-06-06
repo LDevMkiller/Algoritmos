@@ -1,7 +1,7 @@
 /*
     Topico 1: Resolviendo problemas de estructura de datos en C.
     
-    - Ejercicio 11: Mostrando un arreglo de manera ascendente
+    - Ejercicio 11: Mostrando un arreglo de manera descendente
 */
 
 //Declaramos la biblioteca para las funciones de INPUT/OUTPUT.
