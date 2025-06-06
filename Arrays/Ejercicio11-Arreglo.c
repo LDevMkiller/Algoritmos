@@ -24,8 +24,8 @@ int main(int argc, char *argv[]){
     /*
         - Estamos haciendo esto:
         
-        * Estamos iterando en el arreglo hasta encontrar un numero mayor al anterior
-        * Si es asi. Entonces, debemos ver que en la siguiente iteracion si un elemento sea mayor a array1 
+        * Estamos iterando en el arreglo hasta encontrar un numero menor al anterior
+        * Si es asi. Entonces, debemos ver que en la siguiente iteracion si un elemento sea menor a array1 
     */
     //Primero, recorremos este arreglo
     for(int i = 0; i < 5; i++){
